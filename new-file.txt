@@ -1,1 +1,2 @@
 This is exercise for Git.
+I will make some changes.
